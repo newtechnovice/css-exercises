@@ -1,0 +1,19 @@
+.odd {
+    background-color:lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#even {
+    color: blue;
+    font-size: 36px;
+}
+
+.odder {
+    font-size: 24px;
+}
+
+#evener {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
